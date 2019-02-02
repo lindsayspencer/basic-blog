@@ -5,7 +5,7 @@ title: Notes
 ---
 latest post featured on the home page
 
-All listed on another page
+<p>All listed on another page
 
 Add keywords for filtering
 
@@ -13,4 +13,4 @@ About on home page
 
 how to have comments? Maybe do it as twitter for a public comments and email as private comments?
 
-Figure out styling
+Figure out styling</p>
