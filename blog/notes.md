@@ -1,6 +1,6 @@
 ---
 path: /blog/notes
-date: 2019-02-02T19:56:21.936Z
+date: 2019-02-01T06:00:00.000Z
 title: Notes
 ---
 latest post featured on the home page
