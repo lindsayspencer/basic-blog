@@ -9,6 +9,12 @@ export default function Index({
     const { edges: posts } = data.allMarkdownRemark;
     return (
       <div className="blog-posts">
+        <div className="latest-post">
+            <h1>Latest Post:</h1>
+            <h2>{posts[0].frontmatter.title}</h2>
+            <h3>{post.frontmatter.date}</h3>
+            <p>{post.excerpt}</p>
+        </div>
         {posts
           .filter(post => post.node.frontmatter.title.length > 0)
           .map(({ node: post }) => {

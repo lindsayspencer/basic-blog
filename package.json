@@ -12,6 +12,7 @@
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
   "dependencies": {
+    "barkorem-ipsuruff": "^2.1.0",
     "gatsby": "^2.0.76",
     "gatsby-plugin-catch-links": "^2.0.10",
     "gatsby-plugin-netlify-cms": "^3.0.9",
